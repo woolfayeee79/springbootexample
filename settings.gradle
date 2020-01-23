@@ -1,1 +1,3 @@
+include 'spring'
+include 'ui'
 rootProject.name = 'springbootexample'
